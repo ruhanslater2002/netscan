@@ -1,2 +1,3 @@
 # netscan
-Scans hosts on the network
+Scans hosts on a network
+Can be used to scan vulnerabilities on a network
